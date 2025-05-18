@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/urbangrow?useSSL=false
+db.user=YOUR_USERNAME
+db.password=YOUR_PASSWORD
